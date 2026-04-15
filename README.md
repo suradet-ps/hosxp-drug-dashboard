@@ -1,12 +1,12 @@
 # HOSxP Drug Dashboard
 
-[![Tauri](https://img.shields.io/badge/Tauri-2.5.0-24c8db?logo=tauri&logoColor=fff)](https://tauri.app/)
-[![Vue.js](https://img.shields.io/badge/Vue-3.5.13-4FC08D?logo=vue.js&logoColor=fff)](https://vuejs.org/)
+[![Tauri](https://img.shields.io/badge/Tauri-2.10.1-24c8db?logo=tauri&logoColor=fff)](https://tauri.app/)
+[![Vue.js](https://img.shields.io/badge/Vue-3.5.32-4FC08D?logo=vue.js&logoColor=fff)](https://vuejs.org/)
 [![Rust](https://img.shields.io/badge/Rust-1.80+-f74c00?logo=rust&logoColor=fff)](https://www.rust-lang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7.3-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.3.5-B73BFE?logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![Pinia](https://img.shields.io/badge/Pinia-2.1.7-F6D365?logo=pinia&logoColor=black)](https://pinia.vuejs.org/)
-[![Apache ECharts](https://img.shields.io/badge/ECharts-5.5.1-AA344D?logo=apacheecharts&logoColor=white)](https://echarts.apache.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-6.0.2-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-8.0.8-B73BFE?logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![Pinia](https://img.shields.io/badge/Pinia-3.0.4-F6D365?logo=pinia&logoColor=black)](https://pinia.vuejs.org/)
+[![Apache ECharts](https://img.shields.io/badge/ECharts-6.0.0-AA344D?logo=apacheecharts&logoColor=white)](https://echarts.apache.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-005C84?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
