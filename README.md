@@ -40,7 +40,7 @@ Please make sure you have the following installed to run and build the project:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/pharmacist-sabot/hosxp-drug-dashboard.git
+   git clone https://github.com/suradet-ps/hosxp-drug-dashboard.git
    cd hosxp-drug-dashboard
    ```
 
